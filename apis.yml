@@ -1,7 +1,12 @@
 aid: autoliv
-url: https://raw.githubusercontent.com/api-evangelist/autoliv/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/autoliv/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.autoliv.com
+description: >-
+  Autoliv is a global leader in automotive safety systems, designing, manufacturing,
+  and selling airbags, seatbelts, steering wheels, and related safety electronics
+  for vehicle manufacturers worldwide.

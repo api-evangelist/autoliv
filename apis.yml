@@ -16,6 +16,7 @@ tags:
   - Seatbelts
   - Safety Systems
   - Manufacturing
+  - Fortune 500
 apis:
   - aid: autoliv:supplier-portal
     name: Autoliv Supplier Portal

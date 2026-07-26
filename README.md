@@ -17,11 +17,6 @@ Autoliv is the world's largest automotive safety supplier, designing, manufactur
 
 ## APIs
 
-### Autoliv Supplier Portal
-
-The Autoliv Supplier Portal (autoliv.biz) provides suppliers and partners with access to procurement, logistics, and collaboration tools for doing business with Autoliv. It enables supplier onboarding, document exchange, and supply chain coordination with Autoliv manufacturing sites globally.
-
-**Human URL:** [https://autoliv.biz](https://autoliv.biz)
 
 #### Tags
 

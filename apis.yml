@@ -1,4 +1,17 @@
 aid: autoliv
+accessModel:
+  pricing: paid
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Paid
+  confidence: medium
+  source:
+    - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/autoliv.png
 name: Autoliv
 description: >-
   Autoliv is the world's largest automotive safety supplier, designing, manufacturing,
@@ -7,7 +20,7 @@ description: >-
   operates in 25 countries with 13 technology centers and serves all major OEMs.
 url: https://raw.githubusercontent.com/api-evangelist/autoliv/refs/heads/main/apis.yml
 created: '2026-03-21'
-modified: '2026-04-19'
+modified: '2026-07-25'
 specificationVersion: '0.19'
 tags:
   - Automotive
@@ -17,23 +30,7 @@ tags:
   - Safety Systems
   - Manufacturing
   - Fortune 500
-apis:
-  - aid: autoliv:supplier-portal
-    name: Autoliv Supplier Portal
-    description: >-
-      The Autoliv Supplier Portal (autoliv.biz) provides suppliers and partners
-      with access to procurement, logistics, and collaboration tools for doing
-      business with Autoliv. It enables supplier onboarding, document exchange,
-      and supply chain coordination with Autoliv manufacturing sites globally.
-    humanURL: https://autoliv.biz
-    tags:
-      - Supply Chain
-      - Procurement
-      - Supplier Management
-      - B2B
-    properties:
-      - type: Portal
-        url: https://autoliv.biz
+apis: []
 common:
   - type: DomainSecurity
     url: security/autoliv-domain-security.yml
@@ -101,6 +98,8 @@ common:
         description: >-
           Quality management integrations aligned with the IATF 16949 automotive
           quality management standard.
+  - type: Suppliers
+    url: https://autoliv.biz
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com

@@ -1,7 +1,9 @@
 ---
 title: Autoliv to Discontinue Manufacturing Operations in Türkiye
 url: https://www.prnewswire.com/news-releases/autoliv-to-discontinue-manufacturing-operations-in-turkiye-302766735.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Autoliv" press release artificial intelligence'
 position: 2
 source: serpapi-google

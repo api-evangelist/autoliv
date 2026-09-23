@@ -1,7 +1,9 @@
 ---
 title: Digitalization & Automation at Autoliv
 url: https://www.autoliv.com/company/digitalization-automation-autoliv
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Autoliv" press release artificial intelligence'
 position: 1
 source: serpapi-google

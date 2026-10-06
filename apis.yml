@@ -31,7 +31,7 @@ description: >-
   operates in 25 countries with 13 technology centers and serves all major OEMs.
 url: https://raw.githubusercontent.com/api-evangelist/autoliv/refs/heads/main/apis.yml
 created: '2026-03-21'
-modified: '2026-07-25'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 tags:
   - Automotive
@@ -43,6 +43,8 @@ tags:
   - Fortune 500
 apis: []
 common:
+  - url: https://www.autoliv.com/rss.xml
+    type: BlogRSS
   - type: DomainSecurity
     url: security/autoliv-domain-security.yml
   - type: LinkedIn

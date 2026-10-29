@@ -1,4 +1,4 @@
-# Autoliv (autoliv)
+# Autoliv
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,65 +66,96 @@
 
 Autoliv is the world's largest automotive safety supplier, designing, manufacturing, and selling airbags, seatbelts, steering wheels, inflators, pyrotechnic actuators, and related safety electronics for vehicle manufacturers worldwide. The company operates in 25 countries with 13 technology centers and serves all major OEMs.
 
-**URL:** [https://www.autoliv.com](https://www.autoliv.com)
+**Areas:** Automotive · Automotive Safety · Airbags · Seatbelts · Safety Systems · Manufacturing · Fortune 500
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
+## Autoliv on APIs.io
 
-## Tags
+Everything profiled for Autoliv is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/autoliv/](https://apis.io/providers/autoliv/)** — or go straight to one of the APIs or properties below.
 
- - Automotive, Automotive Safety, Airbags, Seatbelts, Safety Systems, Manufacturing
+### Published properties
 
-## Timestamps
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- **Created:** 2026-03-21
-- **Modified:** 2026-04-19
+#### Security (1)
 
-## APIs
+Authentication, trust centre, and vulnerability disclosure.
 
+- [Autoliv Domain Security](https://apis.io/security/autoliv/autoliv-domain-security/)
 
-#### Tags
+#### Plans and pricing (1)
 
- - Supply Chain, Procurement, Supplier Management, B2B
+Published plans, tiers and prices.
 
-#### Properties
+- [Autoliv Plans Pricing](https://apis.io/plans/autoliv/autoliv-plans-pricing/)
 
-- [Portal](https://autoliv.biz)
+#### Rate limits (1)
 
-## Common Properties
+Published request limits.
+
+- [Autoliv Rate Limits](https://apis.io/rate-limits/autoliv/autoliv-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Autoliv Finops](https://apis.io/finops/autoliv/autoliv-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.autoliv.com)
-- [GitHub Organization](https://github.com/autoliv)
+- [GitHub](https://github.com/autoliv)
 
-## Features
+## API Evangelist rating
 
-| Name | Description |
-|------|-------------|
-| Airbag Systems | Front, side curtain, knee, pedestrian, and center airbag systems for passenger vehicles, commercial vehicles, and motorcycles. |
-| Seatbelt Systems | Seatbelt assemblies, webbing, and retractors engineered for crash performance across all vehicle segments. |
-| Steering Wheels | Steering wheel systems including foldable designs for autonomous vehicles and advanced driver assistance configurations. |
-| Pyrotechnic Components | Inflators, initiators, pyro safety switches, and pyrotechnic actuators for airbag deployment and battery disconnect applications. |
-| HBM Safety Suite | Software platform supporting occupant safety simulation, virtual testing, and digital validation of safety systems. |
-| Commercial Vehicle Safety | Seat belt and airbag solutions tailored for trucks, buses, and off-road vehicles. |
+**Kin Score 5.5** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## Use Cases
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 5.3 |
 
-| Name | Description |
-|------|-------------|
-| OEM Supply Chain Integration | Tier-1 supplier integration with automotive OEM procurement and logistics systems for just-in-time delivery of safety components. |
-| Supplier Onboarding | Onboarding new suppliers into Autoliv's global supply base through the supplier portal with document management and compliance workflows. |
-| Connected Safety | Integration of Autoliv safety systems with vehicle telematics and connected car platforms for post-crash notification and safety analytics. |
-| Safety Simulation | Virtual occupant safety testing and crash simulation using the HBM Safety Suite to accelerate product development and validation. |
+**Agent readiness 0.6** — human-only
 
-## Integrations
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-| Name | Description |
-|------|-------------|
-| Automotive OEM ERP Systems | EDI and system integrations with OEM enterprise resource planning systems for procurement, logistics, and order management. |
-| SAP Supply Chain | Supply chain management integration with SAP systems used across Autoliv's global manufacturing network. |
-| IATF 16949 Quality Systems | Quality management integrations aligned with the IATF 16949 automotive quality management standard. |
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
 
-## Maintainers
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/autoliv/](https://apis.io/providers/autoliv/).
 
-**FN:** Kin Lane
+## How this profile is made
 
-**Email:** kin@apievangelist.com
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Autoliv: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/autoliv/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
